@@ -167,7 +167,7 @@ h1{
     height: 45px;
 }
 
-.bg-brokers{
+.bg-brokers-1{
 	background-image: url(../assets/img/brokers/Martin-Lotti.webp);
 	height: 400px;
 	width: 300px;
@@ -175,6 +175,70 @@ h1{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+.bg-brokers-2{
+	background-image: url(../assets/img/brokers/Pia-Oris-de-Roa.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-3{
+	background-image: url(../assets/img/brokers/Paula-Fernandez-Peri.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-4{
+	background-image: url(../assets/img/brokers/Graciela-Belcher.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-5{
+	background-image: url(../assets/img/brokers/Tristan-García-Bouza.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-6{
+	background-image: url(../assets/img/brokers/Dolores-Pezet.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-7{
+	background-image: url(../assets/img/brokers/Clara-Sanz.webp);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-brokers-8{
+	background-image: url(../assets/img/brokers/holder.jpg);
+	height: 400px;
+	width: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 
 .t-b{
 	color: #fff;
@@ -186,6 +250,14 @@ h1{
 	color: #fff;
 	font-weight: 600;
 	font-size: 14px;
+}
+
+.card-text:last-child {
+    margin-bottom: 8px;
+}
+
+.card-title {
+    margin-bottom: 2rem;
 }
 
 .ts{
