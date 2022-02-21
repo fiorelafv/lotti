@@ -240,7 +240,7 @@ h1{
 	height:60px;
 	bottom:40px;
 	right:40px;
-	background-color:#25d366;
+	background-color:#0a58ca;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
@@ -249,6 +249,6 @@ h1{
   	z-index:100;
 }
 
-footer{
-	background-color: ;
+.bg-primary{
+	background-color: #494949!important;
 }
